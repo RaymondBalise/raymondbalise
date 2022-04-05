@@ -4,7 +4,7 @@
     - tidyREDCap - helper functions for REDCap
     - ctn94data - harmonized data on responses to opioid use disorder treatment
     - DOPE - a collection of synonyms for drugs
-- 🌱 I’m currently learning stuff by coding up the 2nd Edition of _An Introduction to Statistical Learning_.
+- 🌱 I’m currently learning stuff by coding up the 2nd Edition of _An Introduction to Statistical Learning_ and in my "spare" time I am learning Julia.
 - 👯 I’m looking to collaborate on DOPE and tidyREDCap
 - 📫 How to reach me: email me at the U of Miami
 - 😄 Pronouns: he/him
