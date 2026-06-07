@@ -5,6 +5,7 @@
     - Modeling success of treatment for Opioud Use Disorder
 - 🌱 I’m currently learning how to make useful skills files for Claude Code.
 - My R Packages  
+<a href="https://github.com/RaymondBalise/rUM"><img src="https://raymondbalise.github.io/rUM/logo.png" height="80"/></a>
 <a href="https://github.com/RaymondBalise/tidyREDCap"><img src="https://raymondbalise.github.io/tidyREDCap/logo.png" height="80"/></a>
 <a href="https://github.com/CTN-0094/DOPE"><img src="https://ctn-0094.github.io/DOPE/reference/figures/DOPE_hex.png" height="80"/></a>
 <a href="https://github.com/CTN-0094/public.ctn0094data"><img src="https://raw.githubusercontent.com/CTN-0094/public.ctn0094data/main/public_ctn0094data_hex.svg" height="80"/></a>
