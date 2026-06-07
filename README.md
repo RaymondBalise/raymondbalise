@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-7B61FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlLXdpZHRoPSIyIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwIiByeD0iMyIvPgo8cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgcng9IjMiLz4KPC9zdmc+)
 
+
 #### Other Tools I Regularly Use
-![SAS](https://img.shields.io/badge/SAS-0076BD?style=for-the-badge&logo=sas&logoColor=white) ![Positron](https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0076BD?style=for-the-badge&logo=sas&logoColor=white) ![Positron](https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Snagit](https://img.shields.io/badge/Snagit-29ABE2?style=for-the-badge&logo=camera&logoColor=white) ![Camtasia](https://img.shields.io/badge/Camtasia-6ABF4B?style=for-the-badge&logo=screencastify&logoColor=white) ![Descript](https://img.shields.io/badge/Descript-0062FF?style=for-the-badge&logo=airplayvideo&logoColor=white)
 
