@@ -32,11 +32,12 @@ Here are some ideas to get you started:
 
 ### Favorite Tools
 
+
 ![Mac Studio](https://img.shields.io/badge/Mac_Studio-000000?style=for-the-badge&logo=apple&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
-![tidymodels](https://img.shields.io/badge/tidymodels-1A162D?style=for-the-badge&logo=posit&logoColor=white)
+![tidymodels](https://img.shields.io/badge/tidymodels-1FA3D6?style=for-the-badge&logo=posit&logoColor=white)
 
 #### AI Preferences
 
